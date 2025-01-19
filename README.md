@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sajib Saha</h1>
 <h3 align="center">Professional AI Authenticator and Machine Learning Specialist</h3>
 
-<img  src= "[https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjGlu3nnpiHAxWqpWMGHe_WBKgQMygCegQIARBu..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwjGlu3nnpiHAxWqpWMGHe_WBKgQMygCegQIARBu](https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966)"/>
+<img  src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajibsaha3&label=Profile%20views&color=0e75b6&style=flat" alt="sajibsaha3" /> </p>
 
