@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sajib Saha</h1>
 <h3 align="center">Professional AI Authenticator and Machine Learning Specialist</h3>
 
-<img  src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img  src= "https://i.ibb.co.com/YTWxwdG/Small-avatar.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajibsaha3&label=Profile%20views&color=0e75b6&style=flat" alt="sajibsaha3" /> </p>
 
