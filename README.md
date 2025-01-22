@@ -1,4 +1,4 @@
-[![MasterHead]<img src="https://img.freepik.com/premium-photo/businessman-use-tablet-data-science-technology-idea-artificial-intelligence-deep-learning_34200-704.jpg?w=826"/>]
+<div align="center"><img src="https://img.freepik.com/premium-photo/businessman-use-tablet-data-science-technology-idea-artificial-intelligence-deep-learning_34200-704.jpg?w=826"/></div>
 <h1 align="center">Hi 👋, I'm Sajib Saha</h1>
 <h3 align="center">Professional AI Authenticator and Machine Learning Specialist</h3>
 <div align="center">
