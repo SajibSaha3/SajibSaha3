@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5612AQHu0KtBfwhzCw%2Farticle-cover_image-shrink_720_1280%2F0%2F1707276129386%3Fe%3D2147483647%26v%3Dbeta%26t%3DD__TC4PYxlEpUlGOkmHAZJFm3ejyIsgWsOc0TWNvtYY&tbnid=V1YsBKEzIIv76M&vet=10CAIQxiAoAGoXChMIqIKw0puYhwMVAAAAAB0AAAAAEBw..i&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcan-ai-learn-like-child-unlocking-power-deep-learning-torres-idxnc&docid=AGH0mrkMe9k3LM&w=1055&h=720&itg=1&q=animated%20image%20programming%20machine%20learning%20&ved=0CAIQxiAoAGoXChMIqIKw0puYhwMVAAAAAB0AAAAAEBw)]
 <h1 align="center">Hi 👋, I'm Sajib Saha</h1>
 <h3 align="center">Professional AI Authenticator and Machine Learning Specialist</h3>
-<div align="center>
+<div align="center">
   <img src="https://i.ibb.co.com/YTWxwdG/Small-avatar.png"/>
 </div>
 
