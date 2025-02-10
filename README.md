@@ -1,4 +1,3 @@
-<div align="center"><img src="https://img.freepik.com/premium-photo/ai-humanoid-robot-holding-hologram-screen_31965-7814.jpg?w=826"/></div>
 <h1 align="center">Hi 👋, I'm Sajib Saha</h1>
 <h3 align="center">Professional AI Authenticator and Machine Learning Specialist</h3>
 <div align="center">
